@@ -1,3 +1,3 @@
-### 写入短信到手机自身的短信数据库中，支持android5.0以上系统
+### Flutter_boost 最简单的例子，基于flutter版本v1.12.13
 
-- 首先必须将APP设为默认短信应用，因为5.0以后，系统不允许三方应用写入短信数据库
+- 具体的集成流程参考[Android现有的原生项目集成FlutterBoost](https://www.jianshu.com/p/82e89f3bfcb3)
